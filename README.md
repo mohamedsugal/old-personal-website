@@ -1,2 +1,2 @@
-# mohamedsugal.github.io
-personal website
+# React JS Personal Website
+Personal website that will showcase my profile. Hosted from rickywoodruff.me

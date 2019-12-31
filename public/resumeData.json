@@ -1,0 +1,110 @@
+{
+  "main": {
+    "name":"Ricky Woodruff",
+    "occupation":"Student",
+    "description":"Competitive Programmer - iPhone App Developer - Bukkit Plugin Developer",
+    "image":"profilepic.jpeg",
+    "bio":"Computer Science student at the University of Texas at Austin. Designed and developed the iPhone App for Trinity Preparatory School. Interested in Software Development and Artificial Intelligence.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "woodruffr4@gmail.com",
+    "phone": "407-462-0151",
+    "address":{
+      "street":"xxxx",
+      "city":"xxxx",
+      "state":"xxx",
+      "zip": "xx"
+    },
+    "website": "http://www.rickywoodruff.me",
+    "resumedownload":"xxxxx",
+    "social":[
+      {
+        "name":"instagram",
+        "url":"https://instagram.com/rickywoodrufff",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/richard-w-874bb9133/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/woodruffr4",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University of Texas at Austin",
+        "degree":"B.S. Computer Science",
+        "graduated":"August 2019 - May 2022",
+        "description":"Undergraduate Computer Science major with a specialization in Artificial Intelligence, Big Data, and Machine Learning"
+      },
+      {
+        "school":"Stanford University",
+        "degree":"Artificial Intelligence",
+        "graduated":"Summer 2019",
+        "description":"Completed coursework in Artificial Intelligence, Machine Learning, and Web Development"
+      },
+      {
+        "school":"University of Florida",
+        "degree":"Computer Science",
+        "graduated":"August 2018 - May 2019",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Design Interactive Inc.",
+        "title":"Software Engineer Intern",
+        "years":"June 2017 - July 2017",
+        "description":"Enhanced an iOS project in Swift dedicated to improving users’ mental acuity",
+        "description2":"Configured a Raspberry Pi computer to work as the central operating system of a reconnaissance drone for the U.S. Military"
+      },
+      {
+        "company":"Design Interactive Inc. ",
+        "title":"Software Engineer Intern",
+        "years":"December 2016 - January 2017",
+        "description":"Engineered the initial prototype for a military reconnaissance drone",
+        "description2":"Audited a TSA “pat-down suit” by debugging Intel Edison board data packets with Wireshark"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"85%"
+      },
+      {
+        "name":"C++",
+        "level":"65%"
+      },
+      {
+        "name":"Swift",
+        "level":"40%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"20%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Trinity Prep iPhone App",
+        "category":"Mobile App for Trinity Preparatory School students",
+        "image":"Trinity2.png",
+        "url":"https://itunes.apple.com/us/app/trinity-prep-student/id1145442014?mt=8"
+      },
+      {
+        "title":"Bukkit Plugin Development",
+        "category":"Plugins I developed for Minecraft server owners",
+        "image":"Bukkit.png",
+        "url":"http://github.com/woodruffr4/bukkit-plugins"
+      }
+    ]
+  }
+}
