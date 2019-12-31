@@ -2,7 +2,7 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mohamedsugal.github.io/",
+  "homepage": "https://github.com/mohamedsugal",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "jquery": "^3.3.1",
