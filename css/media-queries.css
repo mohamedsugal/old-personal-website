@@ -353,10 +353,10 @@
    header .banner-text h1 {
       font: 45px/1.1em niveau-grotesk, sans-serif;      
       margin: 0 auto 24px auto;
-      font-weight: 300;
+      font-weight: 500;
    }
    header .banner-text h3 {
-      font: 14px/1.9em adriane, sans-serif;
+      font: 15px/1.9em adriane, sans-serif;
       width: 90%;
    }
   

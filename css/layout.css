@@ -59,7 +59,7 @@ header .banner {
 header .banner-text { width: 100%; }
 header .banner-text h1 {
    font: 90px/1.1em niveau-grotesk, sans-serif;
-   font-weight: 200;
+   font-weight: 500;
    color: #fff;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
@@ -202,7 +202,7 @@ ul#nav li.current a { color: #F06000; }
    font: 22px/30px niveau-grotesk, sans-serif;
    color: #fff;
    margin-bottom: 12px;
-   font-weight: 700;
+   font-weight: 800;
 }
 #about p {
    line-height: 24px;
@@ -280,10 +280,11 @@ ul#nav li.current a { color: #F06000; }
 #resume h1 span {
    border-bottom: 3px solid #11ABB0;
    padding-bottom: 6px;
-   font-weight: 700;
+   font-weight: 800;
 }
 #resume h3 {
    font: 25px/30px niveau-grotesk, sans-serif;
+   font-weight: 700;
 }
 
 #resume .header-col { padding-top: 9px; }
