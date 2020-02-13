@@ -194,7 +194,7 @@
    header .banner-text h1 { font: 68px/1.1em niveau-grotesk, sans-serif; font-weight: 200;}
    header .banner-text h3 {
       font: 16px/1.9em adriane, serif;
-      font-style: italic;
+      font-style: italic !important;
       width: 85%;
    }
    header .banner-text hr {
