@@ -352,11 +352,12 @@
    -------------------------------------------------------------------- */
    header .banner { padding-top: 24px; }
    header .banner-text h1 {
-      font: 40px/1.1em niveau-grotesk, sans-serif;      
+      font: 45px/1.1em niveau-grotesk, sans-serif;      
       margin: 0 auto 24px auto;
+      font-weight: 300;
    }
    header .banner-text h3 {
-      font: 14px/1.9em 'librebaskerville-regular', sans-serif;
+      font: 14px/1.9em adriane, sans-serif;
       width: 90%;
    }
   

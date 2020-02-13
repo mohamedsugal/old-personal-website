@@ -203,6 +203,7 @@ ul#nav li.current a { color: #F06000; }
    font: 22px/30px niveau-grotesk, sans-serif;
    color: #fff;
    margin-bottom: 12px;
+   font-weight: 700;
 }
 #about p {
    line-height: 24px;
@@ -280,6 +281,7 @@ ul#nav li.current a { color: #F06000; }
 #resume h1 span {
    border-bottom: 3px solid #11ABB0;
    padding-bottom: 6px;
+   font-weight: 700;
 }
 #resume h3 {
    font: 25px/30px niveau-grotesk, sans-serif;
