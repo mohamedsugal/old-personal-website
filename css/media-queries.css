@@ -17,6 +17,7 @@
       font: 80px/1.1em niveau-grotesk, sans-serif;
       letter-spacing: -1px;
       margin: 0 auto 12px auto;
+      font-weight: 700;
    }
 
 }
@@ -31,6 +32,7 @@
    header .banner-text h1 {
       font: 78px/1.1em niveau-grotesk, sans-serif;
       letter-spacing: -1px;      
+      font-weight: 700;
    }
    header .banner-text h3 {
       font: 17px/1.9em 'librebaskerville-regular', serif;
@@ -191,7 +193,7 @@
       padding-bottom: 12px;
       padding-top: 6px;
    }
-   header .banner-text h1 { font: 68px/1.1em niveau-grotesk, sans-serif; font-weight: 200;}
+   header .banner-text h1 { font: 68px/1.1em niveau-grotesk, sans-serif; font-weight: 700;}
    header .banner-text h3 {
       font: 16px/1.9em adriane, serif;
       width: 85%;
@@ -351,9 +353,9 @@
    -------------------------------------------------------------------- */
    header .banner { padding-top: 24px; }
    header .banner-text h1 {
-      font: 45px/1.1em niveau-grotesk, sans-serif;      
+      font: 47px/1.1em niveau-grotesk, sans-serif;      
       margin: 0 auto 24px auto;
-      font-weight: 500;
+      font-weight: 700;
    }
    header .banner-text h3 {
       font: 15px/1.9em adriane, sans-serif;
