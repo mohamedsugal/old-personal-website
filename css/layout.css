@@ -963,13 +963,14 @@ footer {
    position: relative;
 }
 
-footer a, footer a:visited { color: #525252; }
+footer a, footer a:visited { color: #777; }
 footer a:hover, footer a:focus { color: #fff; }
 
 /* copyright */
 footer .copyright {
     margin: 0;
     padding: 0;
+    color: #777; 
  }
 footer .copyright li {
     display: inline-block;
