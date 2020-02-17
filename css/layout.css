@@ -290,11 +290,14 @@ ul#nav li.current a { color: #11ABB0; }
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
-.education, .work {
+.education {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;
 }
+
+.work {margin-bottom: -3em;}
+
 #resume .info {
    font: 16px/24px adriane, serif;
    color: #202124;
