@@ -296,7 +296,7 @@ ul#nav li.current a { color: #11ABB0; }
    border-bottom: 1px solid #E8E8E8;
 }
 
-.work {margin-bottom: -3em;}
+/* .work {margin-bottom: -3em;} */
 
 #resume .info {
    font: 16px/24px adriane, serif;
