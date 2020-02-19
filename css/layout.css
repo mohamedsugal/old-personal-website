@@ -553,18 +553,19 @@ ul#nav li.current a { color: #11ABB0; }
 }
 .popup-modal .description-box { padding: 12px 36px 18px 36px; }
 .popup-modal .description-box h4 {
-   font: 15px/24px niveau-grotesk, sans-serif;
+   font: 18px/24px niveau-grotesk, sans-serif;
 	margin-bottom: 12px;
    color: #111;
+   font-weight: 700;
 }
 .popup-modal .description-box p {
-	font: 14px/24px niveau-grotesk, sans-serif;
-   color: #A1A1A1;
+	font: 16px/24px niveau-grotesk, sans-serif;
+   color: #555;
    margin-bottom: 12px;
 }
 .popup-modal .description-box .categories {
    font: 11px/21px niveau-grotesk, sans-serif;
-   color: #A1A1A1;
+   color: #666;
    text-transform: uppercase;
    letter-spacing: 2px;
    display: block;
