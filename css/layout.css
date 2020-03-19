@@ -118,7 +118,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: #9b32ee; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -196,7 +196,7 @@ ul#nav li.current a { color: #9b32ee; }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { background: #109ea2; }
+#about a:hover, #about a:focus { background: #8e13ec; }
 
 #about h2 {
    font: 22px/30px niveau-grotesk, sans-serif;
@@ -225,8 +225,7 @@ ul#nav li.current a { color: #9b32ee; }
    /* background: #444; */
 }
 #about .download .button:hover {
-   /* background: #109ea2; */
-   background-position: right center !important; 
+   background: #8e13ec;
    color: #fff;
 }
 #about .download .button i {
