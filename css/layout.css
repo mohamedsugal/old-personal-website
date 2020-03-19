@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/hero_33.jpg) no-repeat top center;
+   background: #161415 url(../images/hero_4.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -96,7 +96,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: #9b32ee; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -181,7 +181,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #11ABB0; }
+ul#nav li.current a { color: #9b32ee; }
 
 
 /* ------------------------------------------------------------------ */
@@ -225,7 +225,8 @@ ul#nav li.current a { color: #11ABB0; }
    /* background: #444; */
 }
 #about .download .button:hover {
-   background: #109ea2;
+   /* background: #109ea2; */
+   background-position: right center !important; 
    color: #fff;
 }
 #about .download .button i {
@@ -278,7 +279,7 @@ ul#nav li.current a { color: #11ABB0; }
    letter-spacing: 1.92px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid #9b32ee;
    padding-bottom: 6px;
    font-weight: 800;
 }
@@ -1037,5 +1038,5 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #0F9095; }
+#go-top a:hover { background-color: #9b32ee; }
 

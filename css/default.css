@@ -465,7 +465,8 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 16px/30px niveau-grotesk, sans-serif;
-   background: #11ABB0;
+   /* background: #11ABB0; */
+   background-image: linear-gradient(to right, #DA22FF 0%, #9733EE 100%, #DA22FF 100%); 
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
