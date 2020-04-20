@@ -1039,3 +1039,10 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #9b32ee; }
 
+footer .social-links li.design-by {
+   color: #222; 
+}
+
+footer .social-links li a.design-a {
+   color: #222; 
+}
