@@ -1,2 +1,2 @@
 # React JS Personal Website
-Personal website that will showcase my profile. Hosted from rickywoodruff.me
+Personal website that will showcase my profile.
