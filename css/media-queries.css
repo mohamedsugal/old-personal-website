@@ -44,8 +44,9 @@
    }
    /* nav-wrap */
    #nav-wrap {
-      font: 11px niveau-grotesk, sans-serif;
+      font: 14px niveau-grotesk, sans-serif;
       letter-spacing: 1.5px;
+      font-weight: 500;
    }
 
 
@@ -102,13 +103,14 @@
    /* mobile navigation
    -------------------------------------------------------------------- */
    #nav-wrap {
-      font: 12px niveau-grotesk, sans-serif;
+      font: 13px niveau-grotesk, sans-serif;
       background: transparent !important;
       letter-spacing: 1.5px;  
       width: auto;
       position: fixed;
       top: 0;
       right: 0;
+      font-weight: 500;
    }
    #nav-wrap > a {
 	   width: 48px;
