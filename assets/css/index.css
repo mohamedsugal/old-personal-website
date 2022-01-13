@@ -1,10 +1,12 @@
 body {
   background-color: #0E1A27;
+  color: #B4E1FD;
 }
 
 #console {
   font-family: courier, monospace;
   max-width: 750px;
+  color: #B4E1FD;
   margin-left: auto;
   margin-right: auto;
   margin-top: 100px;
@@ -26,7 +28,7 @@ a {
 }
 
 /* dollar sign color  */
-#c {
+#d {
   color: #0B83FF;
 }
 
@@ -35,7 +37,7 @@ p {
   color: #B4E1FD;
 }
 
-#command {
+#c {
   color: #8EFF20;
 }
 
