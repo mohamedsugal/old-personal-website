@@ -3,7 +3,7 @@ body {
 }
 
 #console {
-  font-family: courier, monospace;
+  font-family: 'Source Code Pro', monospace;
   color: #B4E1FD;
   max-width: 750px;
   margin-left: auto;
