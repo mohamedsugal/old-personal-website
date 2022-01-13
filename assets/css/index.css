@@ -31,8 +31,12 @@ a {
 }
 
 /* body color */
-#b {
+p {
   color: #B4E1FD;
+}
+
+#command {
+  color: #8EFF20;
 }
 
 #k {
