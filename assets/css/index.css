@@ -1,5 +1,5 @@
 body {
-  background-color: #0A1631;
+  background-color: #0E1A27;
 }
 
 #console {
@@ -13,20 +13,20 @@ body {
 }
 
 a {
-  color: #0bc;
+  color: #0B83FF;
   text-decoration: none;
 }
 
 #a {
-  color: #0f0;
+  color: #83FF0C;
 }
 
 #c {
-  color: #0bc;
+  color: #0B83FF;
 }
 
 #b {
-  color: #ff0096;
+  color: #FF0A83;
 }
 
 #k {
@@ -34,15 +34,15 @@ a {
 }
 
 #op {
-  color: #888888;
+  color: #B6B6B6;
 }
 
 @keyframes change {
   0% {
-    color: #0f0;
+    color: #FF830C;
   }
   50% {
-    color: #0f0;
+    color: #FF830C;
   }
   99% {
     color: black;
