@@ -14,7 +14,7 @@ body {
 }
 
 p span.greeting {
-  color: #8E20FF;
+  color: #9635ff;
 }
 /* Link color */
 a {
@@ -42,7 +42,8 @@ a {
 }
 
 #k {
-  animation: change 1s;
+  /* animation: change 1s; */
+  color: #FF830C;
 }
 
 #op {
@@ -50,7 +51,7 @@ a {
 }
 
 /* blinking text color */
-@keyframes change {
+/* @keyframes change {
   0% {
     color: #FF830C;
   }
@@ -60,4 +61,4 @@ a {
   99% {
     color: black;
   }
-}
+} */
