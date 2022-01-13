@@ -4,7 +4,6 @@ body {
 
 #console {
   font-family: courier, monospace;
-  color: #fff;
   max-width: 750px;
   margin-left: auto;
   margin-right: auto;
@@ -12,19 +11,26 @@ body {
   font-size: 14px;
 }
 
+p.greeting {
+  color: #8E20FF;
+}
+/* Link color */
 a {
   color: #8EFF20;
   text-decoration: none;
 }
 
+/* computer name color */
 #a {
-  color: #FF1F8E;
+  color: #FF0A83;
 }
 
+/* dollar sign color  */
 #c {
   color: #0B83FF;
 }
 
+/* body color */
 #b {
   color: #B4E1FD;
 }
@@ -37,6 +43,7 @@ a {
   color: #B6B6B6;
 }
 
+/* blinking text color */
 @keyframes change {
   0% {
     color: #FF830C;
