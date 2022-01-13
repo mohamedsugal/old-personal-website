@@ -3,7 +3,7 @@ body {
 }
 
 #console {
-  font-family: 'Inconsolata', monospace;
+  font-family: 'Fira Code', monospace;
   color: #B4E1FD;
   max-width: 750px;
   margin-left: auto;
