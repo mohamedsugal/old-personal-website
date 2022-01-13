@@ -96,7 +96,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed = 3;
-Typer.file = "rimijoker.html";
+Typer.file = "sugal.html";
 Typer.init();
 
 var timer = setInterval("t();", 30);
