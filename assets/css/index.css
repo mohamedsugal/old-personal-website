@@ -23,7 +23,7 @@ p span.greeting {
 /* Link color */
 a {
   color: #8EFF20;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 /* computer name color */
