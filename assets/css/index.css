@@ -13,6 +13,10 @@ body {
   line-height: 20px;
 }
 
+a.snap {
+  color: #FFFC00;
+}
+
 p span.greeting {
   color: #9635ff;
 }
