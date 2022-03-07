@@ -18,7 +18,8 @@ a.snap {
 }
 
 p span.greeting {
-  color: #9635ff;
+  /* color: #9635ff; */
+  color: #FF00FE;
 }
 /* Link color */
 a {
